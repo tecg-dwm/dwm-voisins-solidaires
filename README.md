@@ -4,7 +4,7 @@
 
 * * *
 
-**TITRE** is an educational project, which will be used for `HTML`/`CSS` courses.
+**Les Voisins Solidaire** is an educational project, which will be used for `Mobile UX/UI` courses.
 
 **Note:** the school where the course is given, the [HEPL](https://hepl.be/fr/art560) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in French.
 
