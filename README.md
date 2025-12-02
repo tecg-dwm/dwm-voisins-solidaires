@@ -1,6 +1,6 @@
 # Les Voisins Solidaires
 
-> HTML exercise given at [HEPL](https://hepl.be)
+> UX/UI exercise given at [HEPL](https://hepl.be)
 
 * * *
 
